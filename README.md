@@ -5,7 +5,7 @@ StarryPy3k_plugins
 
 #Plugins: 
 
-## [mdeneen's Pushover plugin]
+## mdeneen's Pushover plugin
 > This adds support for [Pushover](https://pushover.net) messages.  It supports the following features:
 
 > - Send a notification when a player joins or leaves the server
